@@ -1,6 +1,6 @@
 cask "sorla" do
-  version "1.2.1"
-  sha256 "96d1dddca85eaa752d057cbb9cf74d5ca86aaebf2a621dfa4e999f4792e13a92"
+  version "1.2.2"
+  sha256 "402430cbbaa1ee2ff809e837be0fdd477a65bc805678e289ed930bb3a468e9d4"
 
   url "https://github.com/markstrom/sorla/releases/download/v#{version}/Sorla-#{version}.dmg"
   name "Sorla"
